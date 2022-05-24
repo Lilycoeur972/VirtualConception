@@ -8,7 +8,7 @@
 </p>
 
 <h1>Ici votre master Nicole là.<h1>
-<h3>1-gitclone<h1>
+<h1>1-gitclone<h1>
      <h1>2-In the terminal to the project, type : composer install<h1>
         <h1>3-rename file ".env.example" to ".env"  <h1>
             <h1>4-After lanch php artisan serve, start generate key by link  <h1>
