@@ -7,11 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<h1>Ici votre maitresse Nicole.<h1>
-<h1>1-gitclone<h1>
-    <h1>2-composer install<h1>
-        <h1>3-rename file ".env.example" to ".env"  <h1>
-            <h1>4-generate key by link after server start <h1>
+<h1>Ici votre master Nicole là.<h1>
+<h3>1-gitclone<h1>
+    <h3>2-composer install<h3>
+        <h3>3-rename file ".env.example" to ".env"  <h3>
+            <h3>4-generate key by link after server start <h3>
 ## About Laravel
 
 
