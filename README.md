@@ -7,7 +7,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<h3>Ici votre master Nicolas.<h3>
+<h5>1-gitclone<h5>
+<h5>2-In the terminal to the project, type : composer install<h5>
+<h5>3-rename file ".env.example" to ".env"  <h5>
+<h5>4-After lanch php artisan serve, start generate key by link  <h5>
+    
+    
 ## About Laravel
+
+
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
