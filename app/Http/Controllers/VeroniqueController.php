@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class DuboisController extends Controller
+class VeroniqueController extends Controller
 {
     //
 }
