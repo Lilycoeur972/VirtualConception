@@ -21,5 +21,4 @@
         </style>
     </head>
      <h1>YO c'est la team Virtual Conception</h1>
-     <h1>YO es el equipo de Diseño Virtual</h1>
 </html>
