@@ -7,11 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<h1>Ici votre master Nicole là.<h1>
-<h1>1-gitclone<h1>
-     <h1>2-In the terminal to the project, type : composer install<h1>
-        <h1>3-rename file ".env.example" to ".env"  <h1>
-            <h1>4-After lanch php artisan serve, start generate key by link  <h1>
+<h3>Ici votre master Nicolas.<h3>
+<h5>1-gitclone<h5>
+<h5>2-In the terminal to the project, type : composer install<h5>
+<h5>3-rename file ".env.example" to ".env"  <h5>
+<h5>4-After lanch php artisan serve, start generate key by link  <h5>
+    
+    
 ## About Laravel
 
 
